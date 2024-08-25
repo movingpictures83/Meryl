@@ -1,0 +1,3 @@
+Prefix plugins/Meryl/example/
+Plugin Meryl inputfile parameters.m1.txt outputfile merylDB
+Plugin Meryl inputfile parameters.m2.txt outputfile repetitive_k15.txt
